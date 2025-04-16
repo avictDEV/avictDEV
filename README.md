@@ -1,1 +1,1 @@
-HI,there my name is ALAN VICTOR 🙂
+  Alan, Estudante Analise e Desenvolvimento de Sistemas | developer| python| c#
