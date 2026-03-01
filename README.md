@@ -1,1 +1,1 @@
-Estudante Analise e Desenvolvimento de Sistemas | developer| python| HTML | CSS
+Estudante Analise e Desenvolvimento de Sistemas | DBA | python| PHP | CiberSecurity
